@@ -14,6 +14,8 @@ Use install.sql into a mysql database
 
 Configure the Google Books API Key, database and email (currently gmail only) in config.php
 
+View users table for default login details
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
